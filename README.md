@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 🎓 Third-year **B.Tech in Electronics and Computer Engineering** at Vellore Institute of Technology, Chennai (CGPA: 9.64/10)
+- 🎓 Fourth-year **B.Tech in Electronics and Computer Engineering** at Vellore Institute of Technology, Chennai (CGPA: 9.64/10)
 - 🔧 Interested in **digital circuits, VLSI design, and embedded systems** — with hands-on lab experience in Cadence Virtuoso, MATLAB, and Verilog
 - 🤖 Also enjoy building AI/ML projects — from reinforcement learning and explainable computer vision (YOLO + Grad-CAM) to NLP
 - 🏆 Branch Topper, B.Tech ECM (2024–2025) · Current Program Representative, B.Tech ECM (2025–26)
