@@ -76,9 +76,8 @@
 | 🛰️ **[Explainable AI for UAV-Based Waste Detection]()** | YOLO model trained on the TACO dataset to detect litter in drone imagery, with Grad-CAM for interpretability. |
 | 🩺 **[Medical Transcript Classification]()** | NLP model that classifies patient condition severity from raw medical transcripts, cutting manual review time for clinicians. |
 | ⚡ **[Braun Multiplier Analysis]()** | VLSI arithmetic circuit design, optimized for area/power using ideas from the Wallace multiplier. |
-| 🧑‍⚖️ **[Prison Database Management System]()** | Full-stack PHP/MySQL platform with session-based auth, bcrypt hashing, and an AJAX-driven like/comment system backed by prepared statements. |
+| 🧑‍⚖️ **[Prison Database Management System](https://github.com/TheVariant0105/Prison-Management-System-DBMS)** | Full-stack PHP/MySQL platform with session-based auth, bcrypt hashing, and an AJAX-driven like/comment system backed by prepared statements. |
 
-> Replace the `()` links above with your actual repo URLs once you add this file to your profile repo.
 
 ---
 
