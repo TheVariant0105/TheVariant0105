@@ -74,7 +74,7 @@
 |---|---|
 | ♟️ **[AlphaZero-Inspired Chess Engine]()** | Self-play chess engine in Python using Monte Carlo Tree Search, learning entirely through a reward-state-action RL loop. |
 | 🛰️ **[Explainable AI for UAV-Based Waste Detection](https://github.com/TheVariant0105/ExAI-for-UAV-Garbage-Detection)** | YOLO model trained on the TACO dataset to detect litter in drone imagery, with Grad-CAM for interpretability. |
-| 🩺 **[Medical Transcript Classification](https://github.com/TheVariant0105/Medical-Transcript-Classification-NLP)** | NLP model that classifies patient condition severity from raw medical transcripts, cutting manual review time for clinicians. |
+| 🩺 **[Medical Transcript Classification](https://github.com/TheVariant0105/Medical-Transcipt-Classification)** | NLP model that classifies patient condition severity from raw medical transcripts, cutting manual review time for clinicians. |
 | ⚡ **[Braun Multiplier Analysis]()** | VLSI arithmetic circuit design, optimized for area/power using ideas from the Wallace multiplier. |
 | 🧑‍⚖️ **[Prison Database Management System](https://github.com/TheVariant0105/Prison-Management-System-DBMS)** | Full-stack PHP/MySQL platform with session-based auth, bcrypt hashing, and an AJAX-driven like/comment system backed by prepared statements. |
 
